@@ -56,7 +56,7 @@ class Program
             Console.WriteLine($"Getting syntax trees for project {project.Name}...");
             var syntaxTrees = compilation.SyntaxTrees;
 
-            // Output names of methods with zero references
+            // Output names of interfaces with zero references
             Console.WriteLine($"Starting to analyze interfaces for project {project.Name}...");
             interfaceCount = await FindInterfaceReferences(solution, interfaceCount, compilation, syntaxTrees);
             Console.WriteLine();
