@@ -59,10 +59,12 @@ class Program
             // Output names of interfaces with zero references
             Console.WriteLine($"Starting to analyze interfaces for project {project.Name}...");
             interfaceCount = await FindInterfaceReferences(solution, interfaceCount, compilation, syntaxTrees);
+            Console.WriteLine();
 
             // Output names of classes with zero references
             Console.WriteLine($"Starting to analyze classes for project {project.Name}...");
             classCount = await FindClassReferences(solution, classCount, compilation, syntaxTrees);
+            Console.WriteLine();
 
             // Output names of methods with zero references
             Console.WriteLine($"Starting to analyze methods for project {project.Name}...");
