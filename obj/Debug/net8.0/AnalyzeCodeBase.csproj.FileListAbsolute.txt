@@ -200,4 +200,3 @@ C:\Users\bruel\Sync\STPC Web App\DBExplorerBlazorSLN3\DBExplorerBlazor3\AnalyzeC
 C:\Users\bruel\Sync\STPC Web App\DBExplorerBlazorSLN3\DBExplorerBlazor3\AnalyzeCodeBase\obj\Debug\net8.0\AnalyzeCodeBase.pdb
 C:\Users\bruel\Sync\STPC Web App\DBExplorerBlazorSLN3\DBExplorerBlazor3\AnalyzeCodeBase\obj\Debug\net8.0\AnalyzeCodeBase.genruntimeconfig.cache
 C:\Users\bruel\Sync\STPC Web App\DBExplorerBlazorSLN3\DBExplorerBlazor3\AnalyzeCodeBase\obj\Debug\net8.0\ref\AnalyzeCodeBase.dll
-C:\Users\bruel\Sync\STPC Web App\DBExplorerBlazorSLN3\DBExplorerBlazor3\AnalyzeCodeBase\obj\Debug\net8.0\AnalyzeCodeBase.sourcelink.json
