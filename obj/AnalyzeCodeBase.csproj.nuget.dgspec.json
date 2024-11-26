@@ -49,10 +49,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.Build": {
-              "target": "Package",
-              "version": "[17.11.4, )"
-            },
             "Microsoft.Build.Utilities.Core": {
               "target": "Package",
               "version": "[17.11.4, )"

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i0cZfFSpOK8=",
+  "dgSpecHash": "EDXBtUKv+eI=",
   "success": true,
   "projectFilePath": "C:\\Users\\bruel\\Sync\\STPC Web App\\DBExplorerBlazorSLN3\\DBExplorerBlazor3\\AnalyzeCodeBase\\AnalyzeCodeBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruel\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
-    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.build\\17.11.4\\microsoft.build.17.11.4.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\microsoft.build.framework\\17.11.4\\microsoft.build.framework.17.11.4.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\microsoft.build.tasks.core\\17.7.2\\microsoft.build.tasks.core.17.7.2.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\microsoft.build.utilities.core\\17.11.4\\microsoft.build.utilities.core.17.11.4.nupkg.sha512",
@@ -44,7 +44,7 @@
     "C:\\Users\\bruel\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
-    "C:\\Users\\bruel\\.nuget\\packages\\system.reflection.metadataloadcontext\\8.0.0\\system.reflection.metadataloadcontext.8.0.0.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\system.resources.extensions\\8.0.0\\system.resources.extensions.8.0.0.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\bruel\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.2\\system.security.cryptography.pkcs.7.0.2.nupkg.sha512",
